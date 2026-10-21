@@ -1,0 +1,52 @@
+state_code,state,median_taxes_paid,median_taxes_paid_moe,median_home_value,effective_rate_pct,tax_on_400k,paid,at_closing,last_checked
+AL,Alabama,890,17,233300,0.38,1526,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+AK,Alaska,3976,149,376500,1.06,4224,Varies by county,Depends on the county,2026-09-30
+AZ,Arizona,1828,17,426000,0.43,1716,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+AR,Arkansas,1113,21,215600,0.52,2065,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+CA,California,5369,34,759500,0.71,2828,Varies by county,Depends on the county,2026-09-30
+CO,Colorado,2828,25,574600,0.49,1969,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+CT,Connecticut,6573,47,396900,1.66,6624,Varies by county,Depends on the county,2026-09-30
+DE,Delaware,1750,40,371600,0.47,1884,Ahead (in advance),The buyer repays the seller for the days after closing,2026-09-30
+DC,District of Columbia,4594,245,733400,0.63,2506,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+FL,Florida,2993,20,396900,0.75,3016,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+GA,Georgia,2554,26,343300,0.74,2976,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+HI,Hawaii,2385,58,875900,0.27,1089,Ahead (in advance),The buyer repays the seller for the days after closing,2026-09-30
+ID,Idaho,1912,27,446400,0.43,1713,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+IL,Illinois,5399,43,280700,1.92,7694,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+IN,Indiana,1798,19,243500,0.74,2954,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+IA,Iowa,2937,34,227300,1.29,5168,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+KS,Kansas,2983,45,238700,1.25,4999,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+KY,Kentucky,1611,26,226000,0.71,2851,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+LA,Louisiana,1187,31,223200,0.53,2127,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+ME,Maine,3103,56,341900,0.91,3630,Varies by county,Depends on the county,2026-09-30
+MD,Maryland,4144,40,436300,0.95,3799,Ahead (in advance),The buyer repays the seller for the days after closing,2026-09-30
+MA,Massachusetts,6080,39,607400,1,4004,Ahead (in advance),The buyer repays the seller for the days after closing,2026-09-30
+MI,Michigan,2988,19,254200,1.18,4702,Varies by county,Depends on the county,2026-09-30
+MN,Minnesota,3501,24,344600,1.02,4064,Varies by county,Depends on the county,2026-09-30
+MS,Mississippi,1221,29,186500,0.65,2619,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+MO,Missouri,2021,29,254400,0.79,3178,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+MT,Montana,2939,57,425400,0.69,2764,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+NE,Nebraska,3739,49,263100,1.42,5685,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+NV,Nevada,2143,48,455500,0.47,1882,Ahead (in advance),The buyer repays the seller for the days after closing,2026-09-30
+NH,New Hampshire,6707,88,458800,1.46,5847,Varies by county,Depends on the county,2026-09-30
+NJ,New Jersey,9358,53,496000,1.89,7547,Varies by county,Depends on the county,2026-09-30
+NM,New Mexico,1776,45,279900,0.63,2538,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+NY,New York,6542,47,449800,1.45,5818,Ahead (in advance),The buyer repays the seller for the days after closing,2026-09-30
+NC,North Carolina,2044,20,333000,0.61,2455,Varies by county,Depends on the county,2026-09-30
+ND,North Dakota,2550,64,266100,0.96,3833,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+OH,Ohio,2937,20,239800,1.22,4899,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+OK,Oklahoma,1672,24,222100,0.75,3011,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+OR,Oregon,3895,40,497500,0.78,3132,Ahead (in advance),The buyer repays the seller for the days after closing,2026-09-30
+PA,Pennsylvania,3214,26,277600,1.16,4631,Ahead (in advance),The buyer repays the seller for the days after closing,2026-09-30
+RI,Rhode Island,4886,76,455700,1.07,4289,Varies by county,Depends on the county,2026-09-30
+SC,South Carolina,1337,15,299500,0.45,1786,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+SD,South Dakota,2940,67,289600,1.02,4061,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+TN,Tennessee,1488,17,332600,0.45,1790,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+TX,Texas,4108,42,313200,1.31,5246,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+UT,Utah,2648,22,545200,0.49,1943,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+VT,Vermont,5026,131,352800,1.42,5698,Varies by county,Depends on the county,2026-09-30
+VA,Virginia,2872,25,403500,0.71,2847,Varies by county,Depends on the county,2026-09-30
+WA,Washington,4729,41,602200,0.79,3141,Ahead (in advance),The buyer repays the seller for the days after closing,2026-09-30
+WV,West Virginia,881,19,170800,0.52,2063,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+WI,Wisconsin,3680,23,294700,1.25,4995,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30
+WY,Wyoming,1947,50,339500,0.57,2294,After the year (in arrears),The seller credits the buyer for the seller’s days,2026-09-30

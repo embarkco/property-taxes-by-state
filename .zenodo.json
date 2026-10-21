@@ -1,0 +1,37 @@
+{
+  "upload_type": "dataset",
+  "title": "Property taxes by U.S. state, 2026",
+  "description": "Property taxes in all 50 states and the District of Columbia: median real estate taxes paid on owner-occupied homes and median home values (U.S. Census Bureau, American Community Survey 2024 1-year), the effective rate they give, that rate on a $400,000 home, and whether each state’s taxes are paid in arrears or in advance, which decides who credits whom at closing.",
+  "creators": [
+    {
+      "name": "Broker & Agent Solutions"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "property taxes by state",
+    "effective property tax rate",
+    "real estate taxes paid",
+    "property tax proration"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://brokerandagent.com/research/property-taxes-by-state",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://data.census.gov/table/ACSDT1Y2024.B25103",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://data.census.gov/table/ACSDT1Y2024.B25077",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Also published with charts and methodology at https://brokerandagent.com/research/property-taxes-by-state",
+  "version": "2026-10-01"
+}
