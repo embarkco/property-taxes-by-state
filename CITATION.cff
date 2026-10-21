@@ -6,6 +6,7 @@ authors:
   - name: "Broker & Agent Solutions"
     website: "https://brokerandagent.com"
 abstract: "Property taxes in all 50 states and the District of Columbia: median real estate taxes paid on owner-occupied homes and median home values (U.S. Census Bureau, American Community Survey 2024 1-year), the effective rate they give, that rate on a $400,000 home, and whether each state’s taxes are paid in arrears or in advance, which decides who credits whom at closing."
+doi: 10.5281/zenodo.23541006
 license: CC-BY-4.0
 url: "https://brokerandagent.com/research/property-taxes-by-state"
 repository: "https://github.com/embarkco/property-taxes-by-state"

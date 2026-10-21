@@ -1,10 +1,13 @@
 # Property taxes by U.S. state, 2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23541006.svg)](https://doi.org/10.5281/zenodo.23541006)
+
 Property taxes in all 50 states and the District of Columbia: median real estate taxes paid on owner-occupied homes and median home values (U.S. Census Bureau, American Community Survey 2024 1-year), the effective rate they give, that rate on a $400,000 home, and whether each state’s taxes are paid in arrears or in advance, which decides who credits whom at closing.
 
 - **Web page, charts and methodology:** https://brokerandagent.com/research/property-taxes-by-state
 - **Files:** [`data/property-taxes-by-state.csv`](data/property-taxes-by-state.csv) and [`data/property-taxes-by-state.json`](data/property-taxes-by-state.json) (the same rows, with full detail in the JSON)
 - **Coverage:** all 50 states and the District of Columbia
+- **DOI (always the latest version):** [10.5281/zenodo.23541006](https://doi.org/10.5281/zenodo.23541006)
 - **Last updated:** 2026-10-01
 - **Publisher:** [Broker & Agent Solutions](https://brokerandagent.com), a real estate software company in Sarasota, Florida
 
@@ -38,7 +41,7 @@ These are Census survey estimates with margins of error (included). The effectiv
 
 ## How to cite
 
-> Broker & Agent Solutions. "Property taxes by U.S. state, 2026." Updated 2026-10-01. https://brokerandagent.com/research/property-taxes-by-state. Licensed under CC BY 4.0.
+> Broker & Agent Solutions. "Property taxes by U.S. state, 2026." Updated 2026-10-01. https://brokerandagent.com/research/property-taxes-by-state. Licensed under CC BY 4.0. https://doi.org/10.5281/zenodo.23541006
 
 More on crediting and versions: https://brokerandagent.com/research/use-our-data
 
